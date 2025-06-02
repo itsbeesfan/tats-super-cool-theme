@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # tats-super-cool-theme
