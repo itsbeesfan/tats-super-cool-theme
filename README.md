@@ -1,4 +1,9 @@
-# Tonic Starter
+# Tats' Super Cool Theme
+
+tats’ super cool theme is a futuristic, almost sci-fi theme that will remind you of the coolest shows of the 90s (of course im talking about my personal favorites - neon genesis evangelion and ghost in the shell). it was made for the hackclub ysws "Tonic". still a WIP. here is the original template's readme information:
+
+
+## Tonic Starter
 
 A sample [Jekyll](https://jekyllrb.com) theme designed to be a starting point for all [Tonic](https://github.com/hackclub/tonic) submissions.
 
